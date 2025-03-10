@@ -1,7 +1,8 @@
 ---
-title: "Silvia Canelón, PhD"
-subtitle: "Data Analyst at the Penn Urban Health Lab"
-description: "I am a researcher, community organizer, and R educator. My research leverages electronic health record data to study pregnancy-related outcomes, and  my organizing values data literacy as a way to build power and effect change."
+title: "Gavin Yue"
+draft: false
+subtitle: "Exploring AI, Imaging & Robotics"
+description: "I am a Machine Learning researcher and engineer. My research leverages AI to improve image anaysis and robotics decison making."
 sharing_image: "/img/silvia-social.png"
 images:
   - img/skyline-philly.png

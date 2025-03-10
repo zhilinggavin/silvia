@@ -9,12 +9,24 @@ headline: |
 <!-- this is a subheadline -->
 Thanks for stopping by!
 
-I'm a data analyst in the [Urban Health Lab](https://www.urbanhealthlab.org/) at the University of Pennsylvania. My research interests include applications of biomedical data science in the public and population health fields. I work on projects that use electronic health record (EHR) data and geospatial analyses to explore how the neighborhood environment and access to urban nature can impact the health of individuals in Philadelphia. Learn more about my research interests in [publications](/publication).
+I’m a Machine Learning Researcher at Imperial College London, passionate about Generative AI, Image Analysis, and Robotics. I explore cutting-edge GenAI, driving innovation while engineering end-to-end ML model development—from data collection and preprocessing to model optimisation, benchmarking, and deployment. My work focuses on scaling large ML architectures (GANs, Diffusion Models, Transformers, LLMs) and building robust, production-ready AI pipelines with MLOps tools. 
 
-<i class="fas fa-certificate pr2"></i>[Certificate in Biomedical Informatics](https://www.med.upenn.edu/mbmi/certificate.html)  &#8729;  University of Pennsylvania  &#8729;  2019
+🔬 Check out my [projects](/project) and [publications](/publication) to learn more!
 
-<i class="fas fa-graduation-cap pr2"></i>Ph.D. in Biomedical Engineering  &#8729;
- Purdue University  &#8729;  2018
 
-<i class="fas fa-graduation-cap pr2"></i>B.S. in Biomedical Engineering  &#8729;
-    University of Minnesota  &#8729;  2012
+<!-- <i class="fas fa-certificate pr2"></i>[Certificate in Biomedical Informatics](https://www.med.upenn.edu/mbmi/certificate.html)  &#8729;  University of Pennsylvania  &#8729;  2019 -->
+
+<i class="fas fa-graduation-cap pr2"></i>**M.Res. in Machine Learning for Medical Imaging**
+
+  <i class="pr4"></i>*Imperial College London (2023–2024) | Distinction*
+<!-- &#8729;  -->
+
+<i class="fas fa-graduation-cap pr2"></i>**B.Eng. in Mechanical Engineering**
+
+  <i class="pr4"></i> *University of Birmingham 
+  (2021-2023) | First Class*
+
+<i class="fas fa-graduation-cap pr2"></i>**B.Eng. in Mechanical Engineering**
+
+  <i class="pr4"></i> *Wuhan University of Technology 
+  (2018-2021) | First Class Equal*

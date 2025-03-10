@@ -67,7 +67,7 @@ I was lucky that Alison had already started converting her own personal site bec
 
 We'll follow the steps below throughout the tutorial and each of the six steps comes with its own commit in my git history, so you can see exactly what I changed and when. <i class="fas fa-code-branch"></i>
 
-{{< tweet 1370027805543698432 >}}
+
 
 Then we'll [reuse and migrate](#migrating-the-content) your existing content, set up a [contact form](#contact-form), [tidy up your directory](#tidying-up-your-directory), explore some resources for [customizing your new site](#customizing-your-site), and end with the grand finale: [deploying your new site](#deploying-your-new-site)!
 

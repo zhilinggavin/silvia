@@ -16,11 +16,11 @@
   {{- $thumbnail := cond (ne $thumbnail nil) $thumbnail $branch -}}
   <div class="flex flex-column flex-row-ns mb3 mb4-l">
     <figure class="mr3-ns ma0 mb2 mb0-l w-100 w-30-ns">
-      <a href="{{ .RelPermalink }}" class="db">
+      <!--<a href="{{ .RelPermalink }}" class="db">-->
         {{ with $thumbnail }}
-          <img src="{{ .RelPermalink | absURL }}" class="db ma0 dim" alt="">
+          <img src="{{ .RelPermalink | absURL }}" class="db ma0" alt="">
         {{ end }}
-      </a>
+      <!--</a>-->
     </figure>
     <div class="flex flex-column w-100 w-70-ns pl3-ns">
       <header class="w-100">
@@ -51,7 +51,7 @@
       {{ if .Params.show_author_byline }}
         <p class="f7 dib mv1">{{ if .Params.author }}By {{ .Params.author }}{{ end }}{{ with .Params.categories }} in{{ range . }} <a href="{{ "categories/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}</p>
       {{ end }}
-      {{ if and $root.Params.show_button_links .Params.links }}
+      {{ if .Params.links }}
         <p class="db pt1">
         {{ partial "shared/btn-links.html" . }}
         </p>
@@ -84,11 +84,7 @@
       {{ if $root.Params.show_author_byline }}
         <p class="f7 dib mv1">{{ if .Params.author }}By {{ .Params.author }}{{ end }}{{ with .Params.categories }} in{{ range . }} <a href="{{ "categories/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}{{ end }}</p>
       {{ end }}
-      {{ if and $root.Params.show_button_links .Params.links }}
-        <p class="db pt1">
-        {{ partial "shared/btn-links.html" . }}
-        </p>
-      {{ end }}
     </footer>
   {{ end }}
+
 </article>

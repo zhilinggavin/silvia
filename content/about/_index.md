@@ -1,10 +1,11 @@
 ---
 title: "About"
 description: |
-  Personal website for Silvia Canelón
+  Personal website for Gavin Yue
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.
+headless: false
 cascade:
   headless: true
 ---
